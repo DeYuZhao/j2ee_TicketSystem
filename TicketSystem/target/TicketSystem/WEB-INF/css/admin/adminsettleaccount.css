@@ -1,0 +1,66 @@
+.nav-pills>li>#left-bar-2 {
+    background-color: #eaeaea;
+}
+.row {
+    height: 90%;
+    width: 99.9%;
+}
+.col-md-2 {
+    height: 100%;
+    border-right: 1px solid #eaeaea;
+}
+.navigation-right-whole {
+    float: left;
+    width: 83.33333%;
+    height: 100%;
+}
+div#right-top-bar {
+    width: 70%;
+    height: 50px;
+    margin-left: 15%;
+    border-bottom: 2px solid #337ab7;
+}
+div#right-top-1 {
+    float: left;
+    cursor: pointer;
+    font-size: 16px;
+    width: 150px;
+    background-color: #337ab7;
+    height: 38px;
+    color: #fff;
+    border-top-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+.top-a{
+    color: #FFFFFF;
+}
+.top-a:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#list-table {
+    margin-left: 18%;
+    width: 64%;
+}
+.top-address{
+    width: 30%;
+}
+.top-planname{
+    width: 45%;
+}
+.top-sale{
+    width: 17%;
+}
+.top-operation{
+    width: 8%;
+}
+.text-center{
+    position: absolute;
+    left: 50%;
+    top: 85%;
+}

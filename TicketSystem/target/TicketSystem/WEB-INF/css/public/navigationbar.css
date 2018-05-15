@@ -1,0 +1,25 @@
+#userimg{
+    width: 40px;
+    height: 40px;
+}
+#user-menu{
+    min-width: 116px;
+}
+#venue-menu{
+    min-width: 100px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.navbar-nav{
+    margin-left: 950px;
+}
+.navbar-default{
+    background-color: #ffffff;
+}
+.navbar-default .navbar-brand {
+    color: #000;
+}
+.container-fluid>.navbar-header{
+    margin-top: 5px;
+}

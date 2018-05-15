@@ -1,0 +1,27 @@
+.nav-pills>li>#left-bar-3 {
+    background-color: #eaeaea;
+}
+.row {
+    height: 80%;
+    width: 99.9%;
+}
+.col-md-2 {
+    height: 100%;
+    border-right: 1px solid #eaeaea;
+}
+.navigation-right-whole {
+    float: left;
+    width: 83.33333%;
+    height: 100%;
+}
+.table-bordered {
+    border: 1px solid #ddd;
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 20%;
+}
+#pagination-on {
+    position: absolute;
+    left: 48%;
+    top: 85%;
+}

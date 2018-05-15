@@ -1,0 +1,117 @@
+.nav-pills>li>#left-bar-1 {
+    background-color: #eaeaea;
+}
+.row {
+    height: 90%;
+    width: 99.9%;
+}
+.col-md-2 {
+    height: 100%;
+    border-right: 1px solid #eaeaea;
+}
+.navigation-right-whole {
+    float: left;
+    width: 83.33333%;
+    height: 100%;
+}
+div#right-top-bar {
+    width: 55%;
+    height: 50px;
+    margin-left: 10%;
+    border-bottom: 2px solid #337ab7;
+}
+div#right-top-1 {
+    float: left;
+    cursor: pointer;
+    font-size: 16px;
+    width: 150px;
+    background-color: #337ab7;
+    height: 38px;
+    color: #fff;
+    border-top-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+div#right-top-2 {
+    float: left;
+    cursor: pointer;
+    font-size: 16px;
+    width: 150px;
+    height: 38px;
+    border-left: 1px solid #eaeaea;
+    border-right: 1px solid #eaeaea;
+    border-top: 1px solid #eaeaea;
+    border-top-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+.text-center{
+    float: left;
+    padding-left: 300px;
+    margin-top: 20px;
+}
+.list-content{
+    float: left;
+    width: 55%;
+    margin-left: 10%;
+    height: 70%;
+}
+.table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    padding: 8px;
+}
+.table>thead>tr>td{
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+.top-address{
+    padding-left: 30px;
+}
+.address-info{
+    padding: 8px 30px;
+    width: 60%;
+
+}
+.p-info{
+    width: 10%;
+    padding: 8px;
+}
+.r-info{
+    width: 10%;
+    padding: 8px;
+}
+.c-info{
+    width: 10%;
+    padding: 8px;
+}
+.button-info{
+    width: 10%;
+    padding: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.top-a{
+    color: #FFFFFF;
+}
+.top-a:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.top-b{
+    color: #337ab7;
+}
+.top-b:hover{
+    color: #337ab7;
+    text-decoration: none;
+}

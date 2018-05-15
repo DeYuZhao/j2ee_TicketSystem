@@ -1,0 +1,63 @@
+.nav-pills>li>#left-bar-3 {
+    background-color: #eaeaea;
+}
+.row {
+    height: 80%;
+    width: 99.9%;
+}
+.col-md-2 {
+    height: 100%;
+    border-right: 1px solid #eaeaea;
+}
+.navigation-right-whole {
+    float: left;
+    width: 83.33333%;
+    height: 100%;
+}
+.container{
+    width: 98%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin: 10px auto 0 auto;
+}
+#cancel, #sure{
+    margin-left: 0px;
+    margin-right: 10px;
+}
+div.seatCharts-legend {
+    bottom: -250px;
+}
+div.seatCharts-container {
+    border-right: 1px solid #ccc;
+    width: 78%;
+    height: 100%;
+    padding: 20px;
+    float: left;
+}
+.booking_area {
+    float: left;
+    margin-top: 50px;
+    position: relative;
+    width: 17%;
+    margin-left: 5%;
+    height: 100%;
+}
+select#form_income {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#seats_chose{
+    width: 240px;
+}
+#seats_chose li {
+    float: left;
+    width: 72px;
+    height: 22px;
+    line-height: 26px;
+    border: 1px solid #d3d3d3;
+    background: #f7f7f7;
+    margin: 5px 8px 0px 0px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+}

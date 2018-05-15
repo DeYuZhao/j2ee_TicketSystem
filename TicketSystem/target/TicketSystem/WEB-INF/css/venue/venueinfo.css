@@ -1,0 +1,45 @@
+.nav-pills>li>#left-bar-1 {
+    background-color: #eaeaea;
+}
+.row {
+    height: 80%;
+    width: 99.9%;
+}
+.col-md-2 {
+    height: 100%;
+    border-right: 1px solid #eaeaea;
+}
+.navigation-right-whole {
+    float: left;
+    width: 83.33333%;
+    height: 100%;
+}
+.col-sm-offset-3 {
+    margin-top: 2%;
+}
+#venue-text{
+    width: 100px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 24px;
+}
+#form-seatinfo1,#form-seatinfo2,#form-seatinfo3{
+    float: left;
+    width: 23%;
+    margin-bottom: 30px;
+}
+.form-seatinfo-text{
+    float: left;
+    margin-top: 6px;
+    font-size: 18px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.form-control{
+    width: 80%;
+}
+a#registertojsp {
+    margin-right: 36%;
+    padding: 0px 24px;
+}
